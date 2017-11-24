@@ -13,8 +13,8 @@ Module.register("newsfeed",{
 	defaults: {
 		feeds: [
 			{
-				title: "New York Times",
-				url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+				title: "Zen birthday news",
+				url: "modules/default/newsfeed/Birthday.xml",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
@@ -22,7 +22,7 @@ Module.register("newsfeed",{
 		showPublishDate: true,
 		showDescription: false,
 		wrapTitle: true,
-		wrapDescription: true,
+		wrapDescription: false,
 		hideLoading: false,
 		reloadInterval:  5 * 60 * 1000, // every 5 minutes
 		updateInterval: 10 * 1000,

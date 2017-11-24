@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>Stabiplan birthday reminder &gt; Home Page</title>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017 Stabiplan</copyright>
+    <lastBuildDate>Fri, 24 Nov 2017 13:41:11 GMT </lastBuildDate>
+    <item>
+      <title>Theodor Bogdan Vrancean will turn 21 tomorrow</title>
+	  <link></link>
+      <guid></guid>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2017 13:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>André Anker turned 22 on 22 November 2017</title>
+	  <link></link>
+      <guid></guid>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2017 13:56:12 GMT</pubDate>	  
+    </item>
+    <item>
+      <title>Coert de Jong turns 25 today</title>
+	  <link></link>
+      <guid></guid>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2017 13:56:12 GMT</pubDate>	  
+    </item>
+    <item>
+      <title>Mirjam Bel turned 27 yesterday</title>
+  	  <link></link>
+      <guid></guid>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2017 13:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marnix Leune will turn 45 tomorrow</title>
+	  <link></link>
+      <guid></guid>
+      <description></description>
+      <pubDate>Fri, 24 Nov 2017 13:56:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
